@@ -1,0 +1,19 @@
+Dataset 1
+C = 7
+gamma = 0.07
+kernel: rbf
+
+Dataset 2
+C = 3
+degree = 3
+kernel: poly
+
+Dataset 3
+C = 11
+gamma = 0.008
+kernel: rbf
+
+Dataset 4
+C = 3
+gamma = 0.09
+kernel: rbf
